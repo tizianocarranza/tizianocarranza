@@ -1,18 +1,16 @@
 # Tiziano Carranza
 
-**Web Engineer** crafting performant and visually engaging web experiences.
+**Web Engineer** focused on the intersection of engineering, design and interaction.
 
-I enjoy building thoughtful interfaces where engineering and design meet — with a focus on **performance, interaction, motion and attention to detail**.
-
-Currently exploring frontend architecture, creative development and the possibilities of the modern web.
+I build thoughtful web experiences with an emphasis on performance, motion and attention to detail.
 
 ### Selected work
 
-**Calarys**  
+**[Calarys](https://calarys-tiziano-carranzas-projects.vercel.app/)**  
 A curated collection of thoughtfully designed UI components.
 
-**Typing Runner**  
-A typing experience that turns speed and accuracy into movement.
+**[Pace](LINK)**  
+A minimalist typing experience that turns speed and accuracy into motion.
 
 ### Working with
 
@@ -24,4 +22,4 @@ Creative Development · WebGL · Motion · Web Performance · UI Engineering
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/tiziano-carranza/) · Portfolio coming soon
+[LinkedIn](https://www.linkedin.com/in/tiziano-carranza/)
